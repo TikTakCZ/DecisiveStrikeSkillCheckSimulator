@@ -29,7 +29,7 @@ public class Main extends Application {
     private int sipka_pocet_stupnu_nahnuti = 0;
 
     // Soubor pro zvuk pri hitnuti skillchecku
-    File soubor_hudba = new File("C:\\Users\\TikTak\\Downloads\\Music\\herni_zvuk.wav");
+    File soubor_hudba = new File("herni_zvuk.wav");
 
     // Počítání hitnutých skillchecku po sobě
     private int pocet_hitnutych_skillchecku_po_sobe = 0;
