@@ -1,1 +1,1 @@
-"# DecisiveStrikeSkillCheckSimulator" 
+"DecisiveStrikeSkillCheckSimulator" 

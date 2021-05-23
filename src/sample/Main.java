@@ -29,7 +29,7 @@ public class Main extends Application {
     private int sipka_pocet_stupnu_nahnuti = 0;
 
     // Soubor pro zvuk pri hitnuti skillchecku
-    File soubor_hudba = new File("herni_zvuk.wav");
+    File soubor_hudba = new File("H:\\Java Projekty\\DbD Skillcheck Simulator\\herni_zvuk.wav");
 
     // Počítání hitnutých skillchecku po sobě
     private int pocet_hitnutych_skillchecku_po_sobe = 0;
@@ -331,5 +331,9 @@ public class Main extends Application {
 
         // Na pódiu se zobrazí scéna
         podium.show();
+    }
+
+    public static void main(String[]args){
+        launch(args);
     }
 }
